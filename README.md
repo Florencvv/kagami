@@ -15,8 +15,7 @@ walk away.
 | ![aura](docs/aura.jpg) | ![cross](docs/cross.jpg) |
 
 **Watch:** download `dist/kagami.html` and open it in any browser. It is one self-contained file (28 MB, a lighter
-encode of the film with its soundtrack) and works offline. The full-quality MP4 is attached to the release (see
-Releases).
+encode of the film with its soundtrack) and works offline.
 
 ---
 
